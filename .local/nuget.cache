@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FmWIT1S/GMYfS1Li37tDauOPByMyW25A8aY1a9HOcUgT93iAAK3ekXmykMgVBAej61C9DcjEeRkgEvfNxiqVcw==",
+  "dgSpecHash": "cf7Z5NOVjaADksAAHMhpcXrd/Fs8evRcI8nnlwv30zIN51XQizytAn2kmX9OFIzDNYapyuHBT4gCk91ojBp/UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pieter\\Documents\\UiPath\\UiPathTest\\.local\\",
+  "projectFilePath": "C:\\Users\\Pieter\\Documents\\GitHub\\UiPathTest\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Pieter\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Pieter\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
