@@ -7570,9 +7570,9 @@
     "restore": {
       "projectUniqueName": "GITTest",
       "projectName": "GITTest",
-      "projectPath": "C:\\Users\\Pieter\\Documents\\UiPath\\UiPathTest\\.local",
+      "projectPath": "C:\\Users\\Pieter\\Documents\\GitHub\\UiPathTest\\.local",
       "packagesPath": "C:\\Users\\Pieter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pieter\\Documents\\UiPath\\UiPathTest\\.local"
+      "outputPath": "C:\\Users\\Pieter\\Documents\\GitHub\\UiPathTest\\.local"
     },
     "frameworks": {
       "net461": {
